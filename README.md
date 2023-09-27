@@ -25,12 +25,12 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
-!["screenshot of Main page"]()
-!["screenshot of products page"]()
-!["screenshot of cart page"]()
-!["screenshot of order info page"]()
-!["screenshot of product detail page"]()
-!["screenshot of log in page"]()
+!["screenshot of Main page"](https://github.com/Angelus-20/jungle-rails/blob/master/docs/home-page.jpg?raw=true)
+!["screenshot of products page"](https://github.com/Angelus-20/jungle-rails/blob/master/docs/home-products.jpg?raw=true)
+!["screenshot of cart page"](https://github.com/Angelus-20/jungle-rails/blob/master/docs/cart.jpg?raw=true)
+!["screenshot of order info page"](https://github.com/Angelus-20/jungle-rails/blob/master/docs/order-info.jpg?raw=true)
+!["screenshot of product detail page"](https://github.com/Angelus-20/jungle-rails/blob/master/docs/product-detail.jpg?raw=true)
+!["screenshot of log in page"](https://github.com/Angelus-20/jungle-rails/blob/master/docs/login.jpg?raw=true)
 
 ## Dependencies
 
