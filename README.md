@@ -23,6 +23,15 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
+## Final Product
+
+!["screenshot of Main page"]()
+!["screenshot of products page"]()
+!["screenshot of cart page"]()
+!["screenshot of order info page"]()
+!["screenshot of product detail page"]()
+!["screenshot of log in page"]()
+
 ## Dependencies
 
 - Rails 6.1 [Rails Guide](http://guides.rubyonrails.org/v6.1/)
